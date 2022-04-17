@@ -5,3 +5,5 @@
 **npm dev** - Extension rebuilds on save
 
 **npm build** - Just builds extension
+
+*After build extension files will be in dist folder.*
